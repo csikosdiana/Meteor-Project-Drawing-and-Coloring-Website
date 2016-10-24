@@ -1,0 +1,204 @@
+.welcome{
+	margin: 5em;
+	margin-top: 7em;
+	background-color: rgba(255,255,255,0.8);
+	padding: 1em;
+	border-radius: 1em;
+}
+
+#canvas{
+	min-width: 100%;
+	min-height: 600px;
+	box-shadow: inset 0 0 20px #000000;
+	margin-bottom: 5px;
+	background-color: white;
+}
+
+.mystyle {
+    background: url("coloring_image.jpg") no-repeat center center fixed;
+	width: 100%;
+	min-height: 750px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.navbar{
+	background: url("colorful.jpg") no-repeat center center fixed;
+	width: 100%;
+	min-height: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-weight: bold;
+}
+
+.navbar-default .navbar-header .navbar-brand{
+	color: white;
+}
+
+.row{
+	min-height: 610px;
+}
+
+.mypalette{
+	text-align: center;
+}
+
+button{
+	width: 5em;
+}
+
+.mybutton1{
+	margin-bottom: 1em;
+}
+
+.mybutton2{
+	width: 3em;
+	height: 3em;
+	background-color: black;
+}
+
+.mybutton3{
+	width: 3em;
+	height: 3em;
+	background-color: gray;
+}
+
+.mybutton4{
+	width: 3em;
+	height: 3em;
+	background-color: DarkRed;
+}
+
+.mybutton5{
+	width: 3em;
+	height: 3em;
+	background-color: red;
+}
+
+.mybutton6{
+	width: 3em;
+	height: 3em;
+	background-color: Orange;
+}
+
+.mybutton7{
+	width: 3em;
+	height: 3em;
+	background-color: yellow;
+}
+
+.mybutton8{
+	width: 3em;
+	height: 3em;
+	background-color: green;
+}
+
+.mybutton9{
+	width: 3em;
+	height: 3em;
+	background-color: turquoise;
+}
+
+.mybutton10{
+	width: 3em;
+	height: 3em;
+	background-color: indigo;
+}
+
+.mybutton11{
+	width: 3em;
+	height: 3em;
+	background-color: purple;
+}
+
+.mybutton12{
+	width: 3em;
+	height: 3em;
+	background-color: white;
+}
+
+.mybutton13{
+	width: 3em;
+	height: 3em;
+	background-color: sienna;
+}
+
+.mybutton14{
+	width: 3em;
+	height: 3em;
+	background-color: pink;
+}
+
+.mybutton15{
+	width: 3em;
+	height: 3em;
+	background-color: khaki;
+}
+
+.mybutton16{
+	width: 3em;
+	height: 3em;
+	background-color: lawngreen;
+}
+
+.mybutton17{
+	width: 3em;
+	height: 3em;
+	background-color: blue;
+}
+
+.mybutton18{
+	width: 3em;
+	height: 3em;
+	background-color: orchid;
+}
+
+.mybutton19{
+	width: 3em;
+	height: 3em;
+	background-color: skyblue;
+}
+
+.mybutton20{
+	width: 3em;
+	height: 3em;
+	background-color: olive;
+}
+
+.mybutton21{
+	width: 3em;
+	height: 3em;
+	background-color: lightgray;
+}
+
+.mybutton22{
+	width: 3em;
+	height: 3em;
+	background-color: DeepPink;
+	margin-bottom: 1em;
+}
+
+
+.choseanimage{
+	width: 10em;
+	height: 4.5em;
+	margin: 1em;
+}
+
+
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    max-height: 150px;
+}
+
+@media only screen and (max-width: 992px) {
+	#owl-demo .item img{
+		width: 35%;
+		margin-left: 35%
+	}
+}
